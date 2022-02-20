@@ -1,0 +1,39 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "此包使基石可以文言戲之，移自爪哇而略修",
+        "name": "基石文言包",
+        "uuid": "0a715bf6-23d3-4a7f-b3a3-041ebaf3ed15",
+        "version": [
+            1,
+            0,
+            0
+        ],
+        "min_engine_version": [
+            1,
+            13,
+            0
+        ]
+    },
+    "modules": [
+        {
+            "description": "此包使基石可以文言戲之，移自爪哇而略辑",
+            "type": "resources",
+            "uuid": "0b237098-e083-4723-b056-83975975ba6c",
+            "version": [
+                1,
+                5,
+                0
+            ]
+        }
+    ],
+    "capabilities": [
+                    ],
+    "metadata": {
+        "authors": [
+            "Chriz_Li"
+                   ],
+        "license": "nope",
+        "url": "nope"
+    }
+}
